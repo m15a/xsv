@@ -39,7 +39,7 @@ rand = "0.5"
 regex = "1"
 serde = "1"
 serde_derive = "1"
-streaming-stats = "0.2"
+streaming-stats = { path = "./ext/rust-stats" }
 tabwriter = "1"
 threadpool = "1.3"
 

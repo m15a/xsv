@@ -1,0 +1,4 @@
+[submodule "ext/rust-stats"]
+	path = ext/rust-stats
+	url = https://github.com/m15a/rust-stats
+	branch = quartiles
